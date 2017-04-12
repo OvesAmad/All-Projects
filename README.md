@@ -1,2 +1,2 @@
-# Finished-projects
-This includes all finished projects
+# All-projects
+This includes all projects
